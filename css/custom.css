@@ -528,12 +528,12 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 
 /* Contact form */
 #contact_form {
-    background: #fedb5d none repeat scroll 0 0;
+    background: #05adad none repeat scroll 0 0;
     padding:27px 0 32px;
 }
 #contact_form h2 {
     margin: 20px 0 0;
-    color:#73757e;
+    color:#ffffff;
 }
 #contact_form .second_heading {
     font-size: 40px;
