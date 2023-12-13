@@ -327,9 +327,33 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
 }
 
 /* Services */
-#services h2 {
+#services li::before {
+    content: "\2192"; /* Unicode character for right arrow */
+    margin-right: 8px;
+  }
+
+#services ,ul {
+    list-style-type: none;
+    padding: 0;
+    color: white;
+    text-align: center;
+  }  
+  
+
+  #services h2{
+    color: #10b29a;
     margin: 85px 0 50px;
     text-align:center;
+  } 
+#services p {
+    color: white;
+    margin: 85px 0 50px;
+    text-align:center;
+}
+
+#services{
+    background: url("../images/bgg.png") no-repeat scroll 0 0;
+    height: 100vh;
 }
 .service_item > h3 {
     margin: 25px 0 15px;
