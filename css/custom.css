@@ -332,7 +332,7 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     margin-right: 8px;
   }
 
-#services ,ul {
+#services ul {
     list-style-type: none;
     padding: 0;
     color: white;
