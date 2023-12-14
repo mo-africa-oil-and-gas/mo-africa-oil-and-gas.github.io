@@ -338,6 +338,10 @@ nav.navbar.bootsnav ul.nav > li > a:hover,nav.navbar.bootsnav ul.nav > li > a:fo
     color: white;
     text-align: center;
   }  
+  #services li:hover{
+    color: #10b29a;
+    font-size: large;
+  }
   
 
   #services h2{
